@@ -1,0 +1,30 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+h1 {
+    color: #333;
+}
+
+/* Lista no ordenada (ul) */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Enlaces en la lista */
+li a {
+    text-decoration: none;
+    color: #007BFF;
+    font-size: 20px; /* Puedes ajustar el tamaño según tus preferencias */
+}
+
+li a:hover {
+    color: #0056b3; /* Cambia el color al pasar el ratón sobre el enlace */
+}
